@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="ee27f822-0eff-4978-b347-ef435bf80e32" name="ATITSHETH$@ATITSHETH 2025-01-21 15:57:56" runUser="NT AUTHORITY\SYSTEM" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2025-01-21T15:57:56.3350923+05:30" queuing="2025-01-21T15:57:56.3350926+05:30" start="2025-01-21T15:57:55.7558604+05:30" finish="2025-01-21T15:57:56.3384559+05:30" />
+  <TestSettings name="default" id="4a1151e7-55c7-4994-b821-55d67d39b30b">
+    <Deployment runDeploymentRoot="ATITSHETH$_ATITSHETH_2025-01-21_15_57_56" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="e62f7abe-ff15-4f80-8a0b-a0b11d57329d" testId="ac95cb08-7ad1-4d5b-90ec-132670c18038" testName="TestMethod1" computerName="ATITSHETH" duration="00:00:00.0061684" startTime="2025-01-21T15:57:56.2103170+05:30" endTime="2025-01-21T15:57:56.2393417+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e62f7abe-ff15-4f80-8a0b-a0b11d57329d" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="c:\programdata\jenkins\.jenkins\workspace\jenkinspipeline\jenkinsintegration\jenkinsintegration.tests\bin\debug\netcoreapp2.1\jenkinsintegration.tests.dll" id="ac95cb08-7ad1-4d5b-90ec-132670c18038">
+      <Execution id="e62f7abe-ff15-4f80-8a0b-a0b11d57329d" />
+      <TestMethod codeBase="C:\ProgramData\Jenkins\.jenkins\workspace\JenkinsPipeline\JenkinsIntegration\JenkinsIntegration.Tests\bin\Debug\netcoreapp2.1\JenkinsIntegration.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="JenkinsIntegration.Tests.JenkinsTests" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="ac95cb08-7ad1-4d5b-90ec-132670c18038" executionId="e62f7abe-ff15-4f80-8a0b-a0b11d57329d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+</TestRun>

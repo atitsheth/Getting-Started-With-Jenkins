@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyProductAttribute("JenkinsIntegration")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c38236241d4620f122ebb4587f3bb76cdc54ed7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3e6cad95aae665c828982fb3c71d77050178fc5")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JenkinsIntegration.Views")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
