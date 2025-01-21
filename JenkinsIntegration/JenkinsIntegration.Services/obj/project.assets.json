@@ -923,23 +923,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\SHETH ATIT\\.nuget\\packages\\": {},
+    "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\wsl.localhost\\NixOS\\home\\nixos\\CICD\\Getting-Started-With-Jenkins\\JenkinsIntegration\\JenkinsIntegration.Services\\JenkinsIntegration.Services.csproj",
+      "projectUniqueName": "C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\JenkinsPipeline\\JenkinsIntegration\\JenkinsIntegration.Services\\JenkinsIntegration.Services.csproj",
       "projectName": "JenkinsIntegration.Services",
-      "projectPath": "\\\\wsl.localhost\\NixOS\\home\\nixos\\CICD\\Getting-Started-With-Jenkins\\JenkinsIntegration\\JenkinsIntegration.Services\\JenkinsIntegration.Services.csproj",
-      "packagesPath": "C:\\Users\\SHETH ATIT\\.nuget\\packages\\",
-      "outputPath": "\\\\wsl.localhost\\NixOS\\home\\nixos\\CICD\\Getting-Started-With-Jenkins\\JenkinsIntegration\\JenkinsIntegration.Services\\obj\\",
+      "projectPath": "C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\JenkinsPipeline\\JenkinsIntegration\\JenkinsIntegration.Services\\JenkinsIntegration.Services.csproj",
+      "packagesPath": "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\",
+      "outputPath": "C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\JenkinsPipeline\\JenkinsIntegration\\JenkinsIntegration.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\SHETH ATIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

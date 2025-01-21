@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "srJxPcLoef8=",
+  "dgSpecHash": "z1Q8O/QdR2U=",
   "success": true,
-  "projectFilePath": "\\\\wsl.localhost\\NixOS\\home\\nixos\\CICD\\Getting-Started-With-Jenkins\\JenkinsIntegration\\JenkinsIntegration.Services\\JenkinsIntegration.Services.csproj",
+  "projectFilePath": "C:\\ProgramData\\Jenkins\\.jenkins\\workspace\\JenkinsPipeline\\JenkinsIntegration\\JenkinsIntegration.Services\\JenkinsIntegration.Services.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\SHETH ATIT\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
-    "C:\\Users\\SHETH ATIT\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
-    "C:\\Users\\SHETH ATIT\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
-    "C:\\Users\\SHETH ATIT\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
-    "C:\\Users\\SHETH ATIT\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
-    "C:\\Users\\SHETH ATIT\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
-    "C:\\Users\\SHETH ATIT\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": [
     {

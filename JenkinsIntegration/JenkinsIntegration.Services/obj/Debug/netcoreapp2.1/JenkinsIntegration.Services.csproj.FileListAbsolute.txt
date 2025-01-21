@@ -17,3 +17,14 @@ C:\Users\SHETH ATIT\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegra
 \\wsl.localhost\NixOS\home\nixos\CICD\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.sourcelink.json
 \\wsl.localhost\NixOS\home\nixos\CICD\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.dll
 \\wsl.localhost\NixOS\home\nixos\CICD\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.pdb
+C:\ProgramData\Jenkins\.jenkins\workspace\JenkinsPipeline\JenkinsIntegration\JenkinsIntegration.Services\bin\Debug\netcoreapp2.1\JenkinsIntegration.Services.deps.json
+C:\ProgramData\Jenkins\.jenkins\workspace\JenkinsPipeline\JenkinsIntegration\JenkinsIntegration.Services\bin\Debug\netcoreapp2.1\JenkinsIntegration.Services.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\JenkinsPipeline\JenkinsIntegration\JenkinsIntegration.Services\bin\Debug\netcoreapp2.1\JenkinsIntegration.Services.pdb
+C:\ProgramData\Jenkins\.jenkins\workspace\JenkinsPipeline\JenkinsIntegration\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.csproj.AssemblyReference.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\JenkinsPipeline\JenkinsIntegration\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgramData\Jenkins\.jenkins\workspace\JenkinsPipeline\JenkinsIntegration\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.AssemblyInfoInputs.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\JenkinsPipeline\JenkinsIntegration\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.AssemblyInfo.cs
+C:\ProgramData\Jenkins\.jenkins\workspace\JenkinsPipeline\JenkinsIntegration\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.csproj.CoreCompileInputs.cache
+C:\ProgramData\Jenkins\.jenkins\workspace\JenkinsPipeline\JenkinsIntegration\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.sourcelink.json
+C:\ProgramData\Jenkins\.jenkins\workspace\JenkinsPipeline\JenkinsIntegration\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.dll
+C:\ProgramData\Jenkins\.jenkins\workspace\JenkinsPipeline\JenkinsIntegration\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.pdb
