@@ -6,3 +6,14 @@ C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsInteg
 C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.AssemblyInfo.cs
 C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.dll
 C:\Users\akhil.mittal\Documents\GitHub\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.pdb
+\\wsl.localhost\NixOS\home\nixos\CICD\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Services\bin\Debug\netcoreapp2.1\JenkinsIntegration.Services.deps.json
+\\wsl.localhost\NixOS\home\nixos\CICD\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Services\bin\Debug\netcoreapp2.1\JenkinsIntegration.Services.dll
+\\wsl.localhost\NixOS\home\nixos\CICD\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Services\bin\Debug\netcoreapp2.1\JenkinsIntegration.Services.pdb
+\\wsl.localhost\NixOS\home\nixos\CICD\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.csproj.AssemblyReference.cache
+\\wsl.localhost\NixOS\home\nixos\CICD\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\NixOS\home\nixos\CICD\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.AssemblyInfoInputs.cache
+\\wsl.localhost\NixOS\home\nixos\CICD\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.AssemblyInfo.cs
+\\wsl.localhost\NixOS\home\nixos\CICD\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.csproj.CoreCompileInputs.cache
+\\wsl.localhost\NixOS\home\nixos\CICD\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.sourcelink.json
+\\wsl.localhost\NixOS\home\nixos\CICD\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.dll
+\\wsl.localhost\NixOS\home\nixos\CICD\Getting-Started-With-Jenkins\JenkinsIntegration\JenkinsIntegration.Services\obj\Debug\netcoreapp2.1\JenkinsIntegration.Services.pdb
