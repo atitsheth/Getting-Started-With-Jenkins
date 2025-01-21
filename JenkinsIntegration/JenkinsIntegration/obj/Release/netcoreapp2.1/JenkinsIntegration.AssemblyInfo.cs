@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JenkinsIntegration")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a9be84e07d2938feb0c42e0435d322cd4e6bb4b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46a0e879c5e02f96e361a80cc125e33e36d22b16")]
 [assembly: System.Reflection.AssemblyProductAttribute("JenkinsIntegration")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JenkinsIntegration")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
