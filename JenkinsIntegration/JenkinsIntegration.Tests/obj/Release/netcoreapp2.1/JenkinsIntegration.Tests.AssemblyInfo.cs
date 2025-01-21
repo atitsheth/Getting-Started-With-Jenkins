@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JenkinsIntegration.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d750e2bbb4fc2f91114956dab497327ae2c6387d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9715e363969735165cd0ec68f6ab6b806f38fe5")]
 [assembly: System.Reflection.AssemblyProductAttribute("JenkinsIntegration.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JenkinsIntegration.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
